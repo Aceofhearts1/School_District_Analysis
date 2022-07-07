@@ -6,15 +6,15 @@ The purpose of the analysis was to gather info through the data that was collect
 - The school summary was affected but only one row. That would be the Thomas High School row. Their scores were altered since we replaced the values with NaN. The School Type and Budget weren't affected. You would not really expect them to be since we did not do anything to alter those numbers.
 - Removing the ninth grade math and reading scores negatively affected Thomas High School's performance.It dropped their average a few percentage points down. Not enough to react over still.
 -These were the following affects of replacing the scores (The left being the original numbers and the right being the new numbers):
-1 The math scores:
+1. The math scores:
 !https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_math_grade.png
-2 The reading scores:
+2. The reading scores:
 !https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_reading_grade.png
-3 Scores by School spending:
+3. Scores by School spending:
 !https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_spending.png
-4 Scores by school size:
+4. Scores by school size:
 !https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_SchoolSize(4).png
-5 Scores by school type:
+5. Scores by school type:
 !https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_school_type.png
 ## Summary of four changes to the School District Analysis
 - The ninth grade class as a whole in the district was affected. Removing the ninth grade class at a school would impact the district's ninth grade class numbers.
@@ -25,4 +25,4 @@ The purpose of the analysis was to gather info through the data that was collect
 - The budget remained the same for the schools. The kids may have had their scores eliminated but they still count as a body that the school has to spend on.
 - The total counts of the school remained the same. The students still attend.
 - The school type never changed.
-1 So the numbers involving those things will usually remain the same throughout the analysis.
+1. So the numbers involving those things will usually remain the same throughout the analysis.
