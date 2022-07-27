@@ -7,15 +7,15 @@ The purpose of the analysis was to gather info through the data that was collect
 - Removing the ninth grade math and reading scores negatively affected Thomas High School's performance.It dropped their average a few percentage points down. Not enough to react over still.
 -These were the following affects of replacing the scores (The left being the original numbers and the right being the new numbers):
 1. The math scores:
-!https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_math_grade.png
+![](https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_math_grade.png)
 2. The reading scores:
-!https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_reading_grade.png
+![](https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_reading_grade.png)
 3. Scores by School spending:
-!https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_spending.png
+![](https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_spending.png)
 4. Scores by school size:
-!https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_SchoolSize(4).png
+![](https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_SchoolSize(4).png)
 5. Scores by school type:
-!https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_school_type.png
+![](https://github.com/Aceofhearts1/School_District_Analysis/blob/main/Resources/Passing_by_school_type.png)
 ## Summary of four changes to the School District Analysis
 - The ninth grade class as a whole in the district was affected. Removing the ninth grade class at a school would impact the district's ninth grade class numbers.
 - Thomas High school's whole school's numbers were changed since we removed around 1/4 of their numbers. They remained a top five school, but by a lesser margin. In fact, they are extremely close to falling into third place.
